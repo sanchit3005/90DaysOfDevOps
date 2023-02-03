@@ -23,22 +23,22 @@
 
 6. Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
     - ```nano devops.txt```
-    -```write the names one by one in each line -> Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.```
+    - ```write the names one by one in each line -> Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava```
 
 7. To Show only top three fruits from the file.
-    -```head -n 3 devops.txt```
-    -``` You'll get the outupt -> Apple, Mango, Banana```
+    - ```head -n 3 devops.txt```
+    - ``` You'll get the outupt -> Apple, Mango, Banana```
 
 8. To Show only bottom three fruits from the file.
-    -```tail -n 3 devops.txt```
-    -```You'll get the outupt -> Kiwi, Orange, Guava```
+    - ```tail -n 3 devops.txt```
+    - ```You'll get the outupt -> Kiwi, Orange, Guava```
 
 9. To create another file Colors.txt and to view the content.
     - ``` vim Colors.txt ``` 
     - ```  cat Colors.txt ```
 
 10. Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
--```echo -e "Red\nPink\nWhite\nBlack\nBlue\nOrange\nPurple\nGrey" >> Colors.txt```
+    - ```write the names one by one in each line -> Red, Pink, White, Black, Blue, Orange, Purple, Grey ```
 
 11. To find the difference between fruits.txt and Colors.txt file.
-    -```diff fruits.txt Colors.txt -> From this commond we'll get the difference```
+    - ```diff fruits.txt Colors.txt -> From this commond we'll get the difference```
