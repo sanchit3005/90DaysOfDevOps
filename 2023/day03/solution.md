@@ -53,3 +53,7 @@
     - ```  cat Colors.txt ```
 
 10. Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
+-```echo -e "Red\nPink\nWhite\nBlack\nBlue\nOrange\nPurple\nGrey" >> Colors.txt```
+
+11. To find the difference between fruits.txt and Colors.txt file.
+    -```diff fruits.txt Colors.txt -> From this commond we'll get the difference```
