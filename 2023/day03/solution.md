@@ -36,5 +36,20 @@
    
 ![3 5](https://user-images.githubusercontent.com/76457594/210311435-e6f8aa0c-dc0c-44a6-84e7-6e4c91e4ea87.png)
 
+6. Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+    - ```nano devops.txt```
+    -```write the names one by one in each line -> Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.```
 
- 
+7. To Show only top three fruits from the file.
+    -```head -n 3 devops.txt```
+    -``` You'll get the outupt -> Apple, Mango, Banana```
+
+8. To Show only bottom three fruits from the file.
+    -```tail -n 3 devops.txt```
+    -```You'll get the outupt -> Kiwi, Orange, Guava```
+
+9. To create another file Colors.txt and to view the content.
+    - ``` vim Colors.txt ``` 
+    - ```  cat Colors.txt ```
+
+10. Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
